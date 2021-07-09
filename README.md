@@ -40,7 +40,7 @@ Compared multiple versions of models that varied techniques for data-splitting a
 
 A few features have a strong correlation with the target variable: ytd_return
 
-![Correlation](/images/Results.PNG)
+![Correlation](/images/Corr.PNG)
 
 ### Principal Component Analysis
 
