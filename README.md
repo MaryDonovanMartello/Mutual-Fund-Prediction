@@ -50,3 +50,13 @@ PCA was implemented because of multicollinearity between groups of input variabl
 
 ![Results](/images/Results.PNG)
 
+**Notebooks**
+
+1_EDA_Prep_Dimension
+This notebook includes the EDA, data preparation and dimension reduction.  
+
+2_Feature_Selection_and_Test_Subsets
+This notebook includes feature selection models and tests for best subsets of features with a logistic regression model.
+
+3_Regression_Models
+This notebook includes the Logistic Regression Model and LASSO Regression Models’ model evaluation and selection and metric evaluation.
